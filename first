@@ -1,2 +1,4 @@
 python -m venv </content/sphinx-gallery>
 !venv\Scripts\activate
+!python -m pip install --editable ".[dev]"
+
